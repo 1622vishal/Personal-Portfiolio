@@ -2,7 +2,7 @@
 
 <p align="center">This website is an opportunity to demonstrate a portfolio of information about me and to provide further information (via links) about my work.<p>
 
-### <code>Live Demo</code> - **[Portfolio Website](https://khaledelgamely.netlify.app)**
+
 
 # Website Preview
 
@@ -26,13 +26,9 @@ Fully Responsive\
 - [x] Projects
 - [x] Contact Info
 
-# Tools Used
-
-- [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-- [<b>Bootstrap</b>](https://bootstrap.com/) - A CSS framework to get Google's Material Design components.
 
 ## Contact
 
  <h3 align="center">
-  <code> Khaled elgamely</code>
+  <code> Vishal Yadav</code>
 </h3>
