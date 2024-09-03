@@ -2,13 +2,13 @@
 
 <p align="center">This website is an opportunity to demonstrate a portfolio of information about me and to provide further information (via links) about my work.<p>
 
+# Demo
 
+To see the live demo of the website [Click Here]()
 
 # Website Preview
 
 This is a portfolio of my work, including both my personal and academic projects.
-
-:star: Star me on GitHub — it helps!
 
 # Features
 
