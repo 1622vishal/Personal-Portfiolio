@@ -957,3 +957,25 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.leetcode-icon img {
+  width: 24px;
+  height: auto;
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(100%) contrast(100%);
+  transition: filter 0.3s ease;
+}
+
+.leetcode-icon img:hover {
+  filter: invert(59%) sepia(30%) saturate(734%) hue-rotate(186deg) brightness(93%) contrast(91%);
+}
+
+.code360-icon img {
+  width: 24px;
+  height: auto;
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(100%) contrast(100%);
+  transition: filter 0.3s ease;
+}
+
+.code360-icon img:hover {
+  filter: invert(59%) sepia(30%) saturate(734%) hue-rotate(186deg) brightness(93%) contrast(91%);
+}
